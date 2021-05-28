@@ -24,6 +24,6 @@ Ensuite  Au début de chaque notebook il y a des instructions pour l'installatio
 
 Choix2:
 
-aller sur https://mybinder.org/v2/gh/lucasiscovici/quant/master
+aller sur https://mybinder.org/v2/gh/lucasiscovici/quant/main
 
 ajouter le repertoire de rendu dans jupyter
