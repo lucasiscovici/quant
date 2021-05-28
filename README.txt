@@ -18,10 +18,9 @@ Le code dans le notebook est basé sur l'image docker: jupyter/datascience-noteb
 Pour le démarrer (dans le dossier parent à work/): 
 docker run -d --rm --name quant -p 8888:8888 -v $PWD/work:/home/jovyan/work -w /home/jovyan/work luluisco/quant start-notebook.sh --NotebookApp.token="quant"
 
-Ensuite aller sur http://localhost:8888/ et mettre le code "quant".
+Ensuite aller sur http://localhost:8888?token=quant .
 
-Ensuite 
-Au début de chaque notebook il y a des instructions pour l'installation de packages éventuelles si besoin. 
+Ensuite  Au début de chaque notebook il y a des instructions pour l'installation de packages éventuelles si besoin. 
 
 Choix2:
 
