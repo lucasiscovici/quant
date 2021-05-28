@@ -27,3 +27,5 @@ Choix2:
 aller sur https://mybinder.org/v2/gh/lucasiscovici/quant/main
 
 Ajouter le repertoire de rendu dans jupyter (upload) 
+
+Ouvrir le notebook 'Quantmetry-final-Python.ipynb'
