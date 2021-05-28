@@ -1,1 +1,1 @@
-FROM luluisco/quant:c53d0b2edbc0
+FROM luluisco/quant:latest
