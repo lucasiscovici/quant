@@ -25,6 +25,6 @@ Au début de chaque notebook il y a des instructions pour l'installation de pack
 
 Choix2:
 
-aller sur https://mybinder.org/v2/gh/lucasiscovici/quant
+aller sur https://mybinder.org/v2/gh/lucasiscovici/quant/master
 
 ajouter dans le repertoire de rendu dans jupyter
