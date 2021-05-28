@@ -26,4 +26,4 @@ Choix2:
 
 aller sur https://mybinder.org/v2/gh/lucasiscovici/quant/master
 
-ajouter dans le repertoire de rendu dans jupyter
+ajouter le repertoire de rendu dans jupyter
