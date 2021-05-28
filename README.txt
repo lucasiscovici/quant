@@ -26,4 +26,4 @@ Choix2:
 
 aller sur https://mybinder.org/v2/gh/lucasiscovici/quant/main
 
-ajouter le repertoire de rendu dans jupyter (upload)
+Ajouter le repertoire de rendu dans jupyter (upload) 
